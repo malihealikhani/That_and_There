@@ -1,6 +1,7 @@
 # That and There: Judging the Intent of Pointing Actions with Robotic Arms
 
 Malihe Alikhani, Baber Khalid*, Rahule Shome*, Chaitanya Mitash, Kostas Bekris, Matthew Stone, In Proceedings of AAAI-2020
+
 *equal contribution
 
 ## Abstract
